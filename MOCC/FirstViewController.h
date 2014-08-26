@@ -8,6 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
+@interface FirstViewController : UIViewController <UITableViewDelegate, UITableViewDataSource> {
+    UITextView *qText;
+    UITextView *aText;
+}
+
+@property (weak, nonatomic) IBOutlet UITableView *tableView;
+@property (weak, nonatomic) IBOutlet UISegmentedControl *segmentedControl;
+@property (nonatomic, strong) NSArray *dataSourceAnswers;
+@property (nonatomic, strong) NSArray *dataSourceQuestions;
 
 @end

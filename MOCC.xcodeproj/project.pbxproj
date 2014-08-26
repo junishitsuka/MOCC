@@ -7,6 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF5485E519A57E5000C461C4 /* a_aidbox.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485D319A57E5000C461C4 /* a_aidbox.png */; };
+		BF5485E619A57E5000C461C4 /* a_aidbox@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485D419A57E5000C461C4 /* a_aidbox@2x.png */; };
+		BF5485E719A57E5000C461C4 /* a_hospital.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485D519A57E5000C461C4 /* a_hospital.png */; };
+		BF5485E819A57E5000C461C4 /* a_hospital@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485D619A57E5000C461C4 /* a_hospital@2x.png */; };
+		BF5485E919A57E5000C461C4 /* a_mycard.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485D719A57E5000C461C4 /* a_mycard.png */; };
+		BF5485EA19A57E5000C461C4 /* a_mycard@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485D819A57E5000C461C4 /* a_mycard@2x.png */; };
+		BF5485EB19A57E5000C461C4 /* a_setting.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485D919A57E5000C461C4 /* a_setting.png */; };
+		BF5485EC19A57E5000C461C4 /* a_setting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485DA19A57E5000C461C4 /* a_setting@2x.png */; };
+		BF5485ED19A57E5000C461C4 /* aidbox.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485DB19A57E5000C461C4 /* aidbox.png */; };
+		BF5485EE19A57E5000C461C4 /* aidbox@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485DC19A57E5000C461C4 /* aidbox@2x.png */; };
+		BF5485EF19A57E5000C461C4 /* hospital.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485DD19A57E5000C461C4 /* hospital.png */; };
+		BF5485F019A57E5000C461C4 /* hospital@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485DE19A57E5000C461C4 /* hospital@2x.png */; };
+		BF5485F119A57E5000C461C4 /* mycard@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485DF19A57E5000C461C4 /* mycard@2x.png */; };
+		BF5485F219A57E5000C461C4 /* mycard.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485E019A57E5000C461C4 /* mycard.png */; };
+		BF5485F319A57E5000C461C4 /* ring.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485E119A57E5000C461C4 /* ring.png */; };
+		BF5485F419A57E5000C461C4 /* ring@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485E219A57E5000C461C4 /* ring@2x.png */; };
+		BF5485F519A57E5000C461C4 /* setting.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485E319A57E5000C461C4 /* setting.png */; };
+		BF5485F619A57E5000C461C4 /* setting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485E419A57E5000C461C4 /* setting@2x.png */; };
+		BF5485F919A5C13F00C461C4 /* CallNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF5485F819A5C13F00C461C4 /* CallNavigationController.m */; };
+		BF5485FC19A5C58800C461C4 /* ListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF5485FB19A5C58800C461C4 /* ListViewController.m */; };
+		BF54860019A5D15600C461C4 /* reflesh.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485FE19A5D15600C461C4 /* reflesh.png */; };
+		BF54860119A5D15600C461C4 /* reflesh@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BF5485FF19A5D15600C461C4 /* reflesh@2x.png */; };
+		BF54861319A6A94400C461C4 /* NurseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF54861219A6A94400C461C4 /* NurseViewController.m */; };
+		BF54861A19A6B6C200C461C4 /* face1.png in Resources */ = {isa = PBXBuildFile; fileRef = BF54861519A6B6C200C461C4 /* face1.png */; };
+		BF54861B19A6B6C200C461C4 /* face2.png in Resources */ = {isa = PBXBuildFile; fileRef = BF54861619A6B6C200C461C4 /* face2.png */; };
+		BF54861C19A6B6C200C461C4 /* face3.png in Resources */ = {isa = PBXBuildFile; fileRef = BF54861719A6B6C200C461C4 /* face3.png */; };
+		BF54861D19A6B6C200C461C4 /* face4.png in Resources */ = {isa = PBXBuildFile; fileRef = BF54861819A6B6C200C461C4 /* face4.png */; };
+		BF54861E19A6B6C200C461C4 /* face5.png in Resources */ = {isa = PBXBuildFile; fileRef = BF54861919A6B6C200C461C4 /* face5.png */; };
+		BF54862119A6E3BC00C461C4 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF54862019A6E3BC00C461C4 /* SettingsViewController.m */; };
+		BF54862419A6E3DC00C461C4 /* ChartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF54862319A6E3DC00C461C4 /* ChartViewController.m */; };
+		BF54862719A74E8000C461C4 /* scrollViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF54862619A74E8000C461C4 /* scrollViewController.m */; };
 		BFC16BB119A1CEFB00E5429E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFC16BB019A1CEFB00E5429E /* Foundation.framework */; };
 		BFC16BB319A1CEFB00E5429E /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFC16BB219A1CEFB00E5429E /* CoreGraphics.framework */; };
 		BFC16BB519A1CEFB00E5429E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFC16BB419A1CEFB00E5429E /* UIKit.framework */; };
@@ -22,6 +53,7 @@
 		BFC16BD519A1CEFB00E5429E /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BFC16BB419A1CEFB00E5429E /* UIKit.framework */; };
 		BFC16BDD19A1CEFB00E5429E /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BFC16BDB19A1CEFB00E5429E /* InfoPlist.strings */; };
 		BFC16BDF19A1CEFB00E5429E /* MOCCTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BFC16BDE19A1CEFB00E5429E /* MOCCTests.m */; };
+		BFC16BEA19A1EEB200E5429E /* FormViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BFC16BE919A1EEB200E5429E /* FormViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +67,43 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BF5485D319A57E5000C461C4 /* a_aidbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a_aidbox.png; sourceTree = "<group>"; };
+		BF5485D419A57E5000C461C4 /* a_aidbox@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "a_aidbox@2x.png"; sourceTree = "<group>"; };
+		BF5485D519A57E5000C461C4 /* a_hospital.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a_hospital.png; sourceTree = "<group>"; };
+		BF5485D619A57E5000C461C4 /* a_hospital@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "a_hospital@2x.png"; sourceTree = "<group>"; };
+		BF5485D719A57E5000C461C4 /* a_mycard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a_mycard.png; sourceTree = "<group>"; };
+		BF5485D819A57E5000C461C4 /* a_mycard@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "a_mycard@2x.png"; sourceTree = "<group>"; };
+		BF5485D919A57E5000C461C4 /* a_setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a_setting.png; sourceTree = "<group>"; };
+		BF5485DA19A57E5000C461C4 /* a_setting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "a_setting@2x.png"; sourceTree = "<group>"; };
+		BF5485DB19A57E5000C461C4 /* aidbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aidbox.png; sourceTree = "<group>"; };
+		BF5485DC19A57E5000C461C4 /* aidbox@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "aidbox@2x.png"; sourceTree = "<group>"; };
+		BF5485DD19A57E5000C461C4 /* hospital.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hospital.png; sourceTree = "<group>"; };
+		BF5485DE19A57E5000C461C4 /* hospital@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hospital@2x.png"; sourceTree = "<group>"; };
+		BF5485DF19A57E5000C461C4 /* mycard@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mycard@2x.png"; sourceTree = "<group>"; };
+		BF5485E019A57E5000C461C4 /* mycard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mycard.png; sourceTree = "<group>"; };
+		BF5485E119A57E5000C461C4 /* ring.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ring.png; sourceTree = "<group>"; };
+		BF5485E219A57E5000C461C4 /* ring@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ring@2x.png"; sourceTree = "<group>"; };
+		BF5485E319A57E5000C461C4 /* setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setting.png; sourceTree = "<group>"; };
+		BF5485E419A57E5000C461C4 /* setting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "setting@2x.png"; sourceTree = "<group>"; };
+		BF5485F719A5C13F00C461C4 /* CallNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CallNavigationController.h; sourceTree = "<group>"; };
+		BF5485F819A5C13F00C461C4 /* CallNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CallNavigationController.m; sourceTree = "<group>"; };
+		BF5485FA19A5C58800C461C4 /* ListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListViewController.h; sourceTree = "<group>"; };
+		BF5485FB19A5C58800C461C4 /* ListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListViewController.m; sourceTree = "<group>"; };
+		BF5485FE19A5D15600C461C4 /* reflesh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reflesh.png; sourceTree = "<group>"; };
+		BF5485FF19A5D15600C461C4 /* reflesh@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "reflesh@2x.png"; sourceTree = "<group>"; };
+		BF54861119A6A94400C461C4 /* NurseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NurseViewController.h; sourceTree = "<group>"; };
+		BF54861219A6A94400C461C4 /* NurseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NurseViewController.m; sourceTree = "<group>"; };
+		BF54861519A6B6C200C461C4 /* face1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face1.png; sourceTree = "<group>"; };
+		BF54861619A6B6C200C461C4 /* face2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face2.png; sourceTree = "<group>"; };
+		BF54861719A6B6C200C461C4 /* face3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face3.png; sourceTree = "<group>"; };
+		BF54861819A6B6C200C461C4 /* face4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face4.png; sourceTree = "<group>"; };
+		BF54861919A6B6C200C461C4 /* face5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face5.png; sourceTree = "<group>"; };
+		BF54861F19A6E3BC00C461C4 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		BF54862019A6E3BC00C461C4 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		BF54862219A6E3DC00C461C4 /* ChartViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChartViewController.h; sourceTree = "<group>"; };
+		BF54862319A6E3DC00C461C4 /* ChartViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChartViewController.m; sourceTree = "<group>"; };
+		BF54862519A74E8000C461C4 /* scrollViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = scrollViewController.h; sourceTree = "<group>"; };
+		BF54862619A74E8000C461C4 /* scrollViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = scrollViewController.m; sourceTree = "<group>"; };
 		BFC16BAD19A1CEFB00E5429E /* MOCC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MOCC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFC16BB019A1CEFB00E5429E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BFC16BB219A1CEFB00E5429E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -56,6 +125,8 @@
 		BFC16BDA19A1CEFB00E5429E /* MOCCTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MOCCTests-Info.plist"; sourceTree = "<group>"; };
 		BFC16BDC19A1CEFB00E5429E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BFC16BDE19A1CEFB00E5429E /* MOCCTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MOCCTests.m; sourceTree = "<group>"; };
+		BFC16BE819A1EEB200E5429E /* FormViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FormViewController.h; sourceTree = "<group>"; };
+		BFC16BE919A1EEB200E5429E /* FormViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FormViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +153,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BF5485D219A57E5000C461C4 /* Gmail */ = {
+			isa = PBXGroup;
+			children = (
+				BF5485D319A57E5000C461C4 /* a_aidbox.png */,
+				BF5485D419A57E5000C461C4 /* a_aidbox@2x.png */,
+				BF5485D519A57E5000C461C4 /* a_hospital.png */,
+				BF5485D619A57E5000C461C4 /* a_hospital@2x.png */,
+				BF5485D719A57E5000C461C4 /* a_mycard.png */,
+				BF5485D819A57E5000C461C4 /* a_mycard@2x.png */,
+				BF5485D919A57E5000C461C4 /* a_setting.png */,
+				BF5485DA19A57E5000C461C4 /* a_setting@2x.png */,
+				BF5485DB19A57E5000C461C4 /* aidbox.png */,
+				BF5485DC19A57E5000C461C4 /* aidbox@2x.png */,
+				BF5485DD19A57E5000C461C4 /* hospital.png */,
+				BF5485DE19A57E5000C461C4 /* hospital@2x.png */,
+				BF5485DF19A57E5000C461C4 /* mycard@2x.png */,
+				BF5485E019A57E5000C461C4 /* mycard.png */,
+				BF5485E119A57E5000C461C4 /* ring.png */,
+				BF5485E219A57E5000C461C4 /* ring@2x.png */,
+				BF5485E319A57E5000C461C4 /* setting.png */,
+				BF5485E419A57E5000C461C4 /* setting@2x.png */,
+			);
+			path = Gmail;
+			sourceTree = "<group>";
+		};
+		BF5485FD19A5D15600C461C4 /* Gmail 2 */ = {
+			isa = PBXGroup;
+			children = (
+				BF5485FE19A5D15600C461C4 /* reflesh.png */,
+				BF5485FF19A5D15600C461C4 /* reflesh@2x.png */,
+			);
+			path = "Gmail 2";
+			sourceTree = "<group>";
+		};
+		BF54861419A6B6C200C461C4 /* Gmail 3 */ = {
+			isa = PBXGroup;
+			children = (
+				BF54861519A6B6C200C461C4 /* face1.png */,
+				BF54861619A6B6C200C461C4 /* face2.png */,
+				BF54861719A6B6C200C461C4 /* face3.png */,
+				BF54861819A6B6C200C461C4 /* face4.png */,
+				BF54861919A6B6C200C461C4 /* face5.png */,
+			);
+			path = "Gmail 3";
+			sourceTree = "<group>";
+		};
 		BFC16BA419A1CEFA00E5429E = {
 			isa = PBXGroup;
 			children = (
@@ -118,10 +235,27 @@
 				BFC16BBF19A1CEFB00E5429E /* AppDelegate.h */,
 				BFC16BC019A1CEFB00E5429E /* AppDelegate.m */,
 				BFC16BC219A1CEFB00E5429E /* Main.storyboard */,
+				BF54862519A74E8000C461C4 /* scrollViewController.h */,
+				BF54862619A74E8000C461C4 /* scrollViewController.m */,
+				BF54861F19A6E3BC00C461C4 /* SettingsViewController.h */,
+				BF54862019A6E3BC00C461C4 /* SettingsViewController.m */,
+				BF54862219A6E3DC00C461C4 /* ChartViewController.h */,
+				BF54862319A6E3DC00C461C4 /* ChartViewController.m */,
+				BFC16BE819A1EEB200E5429E /* FormViewController.h */,
+				BFC16BE919A1EEB200E5429E /* FormViewController.m */,
+				BF5485F719A5C13F00C461C4 /* CallNavigationController.h */,
+				BF5485F819A5C13F00C461C4 /* CallNavigationController.m */,
+				BF54861119A6A94400C461C4 /* NurseViewController.h */,
+				BF54861219A6A94400C461C4 /* NurseViewController.m */,
+				BF5485FA19A5C58800C461C4 /* ListViewController.h */,
+				BF5485FB19A5C58800C461C4 /* ListViewController.m */,
 				BFC16BC519A1CEFB00E5429E /* FirstViewController.h */,
 				BFC16BC619A1CEFB00E5429E /* FirstViewController.m */,
 				BFC16BC819A1CEFB00E5429E /* SecondViewController.h */,
 				BFC16BC919A1CEFB00E5429E /* SecondViewController.m */,
+				BF54861419A6B6C200C461C4 /* Gmail 3 */,
+				BF5485FD19A5D15600C461C4 /* Gmail 2 */,
+				BF5485D219A57E5000C461C4 /* Gmail */,
 				BFC16BCB19A1CEFB00E5429E /* Images.xcassets */,
 				BFC16BB719A1CEFB00E5429E /* Supporting Files */,
 			);
@@ -204,6 +338,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Ishitsuka Jun";
 				TargetAttributes = {
+					BFC16BAC19A1CEFA00E5429E = {
+						DevelopmentTeam = X75CQAR5SU;
+					};
 					BFC16BD019A1CEFB00E5429E = {
 						TestTargetID = BFC16BAC19A1CEFA00E5429E;
 					};
@@ -233,9 +370,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF54861E19A6B6C200C461C4 /* face5.png in Resources */,
+				BF54860119A5D15600C461C4 /* reflesh@2x.png in Resources */,
+				BF54861B19A6B6C200C461C4 /* face2.png in Resources */,
+				BF54861C19A6B6C200C461C4 /* face3.png in Resources */,
+				BF5485EE19A57E5000C461C4 /* aidbox@2x.png in Resources */,
+				BF5485EC19A57E5000C461C4 /* a_setting@2x.png in Resources */,
+				BF5485F619A57E5000C461C4 /* setting@2x.png in Resources */,
+				BF5485EB19A57E5000C461C4 /* a_setting.png in Resources */,
+				BF5485E819A57E5000C461C4 /* a_hospital@2x.png in Resources */,
 				BFC16BCC19A1CEFB00E5429E /* Images.xcassets in Resources */,
+				BF5485EA19A57E5000C461C4 /* a_mycard@2x.png in Resources */,
 				BFC16BBB19A1CEFB00E5429E /* InfoPlist.strings in Resources */,
+				BF5485E519A57E5000C461C4 /* a_aidbox.png in Resources */,
+				BF5485F519A57E5000C461C4 /* setting.png in Resources */,
 				BFC16BC419A1CEFB00E5429E /* Main.storyboard in Resources */,
+				BF54861A19A6B6C200C461C4 /* face1.png in Resources */,
+				BF5485EF19A57E5000C461C4 /* hospital.png in Resources */,
+				BF5485ED19A57E5000C461C4 /* aidbox.png in Resources */,
+				BF5485F319A57E5000C461C4 /* ring.png in Resources */,
+				BF5485E619A57E5000C461C4 /* a_aidbox@2x.png in Resources */,
+				BF5485F119A57E5000C461C4 /* mycard@2x.png in Resources */,
+				BF5485F219A57E5000C461C4 /* mycard.png in Resources */,
+				BF54861D19A6B6C200C461C4 /* face4.png in Resources */,
+				BF5485F419A57E5000C461C4 /* ring@2x.png in Resources */,
+				BF5485F019A57E5000C461C4 /* hospital@2x.png in Resources */,
+				BF54860019A5D15600C461C4 /* reflesh.png in Resources */,
+				BF5485E719A57E5000C461C4 /* a_hospital.png in Resources */,
+				BF5485E919A57E5000C461C4 /* a_mycard.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,7 +418,14 @@
 			files = (
 				BFC16BCA19A1CEFB00E5429E /* SecondViewController.m in Sources */,
 				BFC16BC119A1CEFB00E5429E /* AppDelegate.m in Sources */,
+				BF5485FC19A5C58800C461C4 /* ListViewController.m in Sources */,
+				BF54862119A6E3BC00C461C4 /* SettingsViewController.m in Sources */,
 				BFC16BC719A1CEFB00E5429E /* FirstViewController.m in Sources */,
+				BF54862719A74E8000C461C4 /* scrollViewController.m in Sources */,
+				BF54862419A6E3DC00C461C4 /* ChartViewController.m in Sources */,
+				BF54861319A6A94400C461C4 /* NurseViewController.m in Sources */,
+				BF5485F919A5C13F00C461C4 /* CallNavigationController.m in Sources */,
+				BFC16BEA19A1EEB200E5429E /* FormViewController.m in Sources */,
 				BFC16BBD19A1CEFB00E5429E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -382,10 +551,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MOCC/MOCC-Prefix.pch";
 				INFOPLIST_FILE = "MOCC/MOCC-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -395,10 +567,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MOCC/MOCC-Prefix.pch";
 				INFOPLIST_FILE = "MOCC/MOCC-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -462,6 +637,7 @@
 				BFC16BE419A1CEFB00E5429E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BFC16BE519A1CEFB00E5429E /* Build configuration list for PBXNativeTarget "MOCCTests" */ = {
 			isa = XCConfigurationList;
@@ -470,6 +646,7 @@
 				BFC16BE719A1CEFB00E5429E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
